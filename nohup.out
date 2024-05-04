@@ -1,0 +1,4 @@
+slurmstepd: error: execve(): /u/xpan2/attack/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models/./run.sh: Exec format error
+srun: error: gpub001: task 0: Exited with exit code 8
+slurmstepd: error: execve(): run.sh: Exec format error
+srun: error: gpub001: task 0: Exited with exit code 8
